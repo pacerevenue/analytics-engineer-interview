@@ -1,0 +1,4 @@
+id,code,name,created,updated,country,timezone,pms_type,deleted,pms_hotel_code,property_group_id,commercial_stage,tier_type,property_api_pms_type_id,booking_revenue_currency
+589,itbDemoHotel1,Crown Hotel 1,2020-02-27 16:41:07.748365,2022-07-25 13:42:31.584841,DE,Europe/Amsterdam,property_api_merchant,false,hotel-itbDemoHotel1,be102159-5467-4401-b541-0edf2f40eee5,demo,premium,demo,EUR
+593,itbDemoHybrid2,Crown Hybrid 2,2020-02-28 12:45:41.337201,2020-04-16 13:19:06.676815,ES,Europe/Amsterdam,property_api_merchant,false,,be102159-5467-4401-b541-0edf2f40eee5,demo,premium,demo,EUR
+598,itbDemoApartments3,Crown Apartments 3,2020-02-28 12:59:21.772618,2020-04-16 13:19:06.810188,GB,Europe/Amsterdam,property_api_merchant,false,,be102159-5467-4401-b541-0edf2f40eee5,demo,premium,demo,GBP

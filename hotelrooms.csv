@@ -1,0 +1,24 @@
+id,merchant_id,title,description,capacity,cost,status,pms_status,override_status,is_virtual,force_show_in_analytics,pms_category_id,user_order,archived_utc,guest_count_default,rate_plan_id
+1690712,589,Penthouse Suites,,1,,active,active,active,false,false,fe9c2942-cb9d-4cf2-a754-8264e5da7669,,,,198663507
+1690706,589,Deluxe Room,,50,,active,active,active,false,false,e757eae7-3c93-4934-80c2-ac4a429f6dcc,,,,198663507
+1690708,589,Studio King,,30,,active,active,active,false,false,2c4c66cf-5a26-4b41-b3cb-fe926b41c52d,,,,198663507
+1690707,589,Executive Room,,40,,active,active,active,false,false,a32c0652-fc8b-4f7a-a57e-c61c04849e68,,,,198663507
+1690705,589,Superior Room,,50,,active,active,active,false,false,c9eacc20-ec48-4792-92d3-11f48a3fa17d,,,,198663507
+1690709,589,Junior Suites,,20,,active,active,active,false,false,fa0cd3c8-24ec-4744-8629-0321250be85f,,,,198663507
+1690710,589,Mayfair Suites,,3,,active,active,active,false,false,da15c91a-32c5-4e96-b70f-d0bcca00ee4d,,,,198663507
+1690711,589,Presidential Suites,,1,,active,active,active,false,false,a3931076-0c32-4a20-93f4-6fb8b8aae464,,,,198663507
+1704293,593,Double Room,,44,,active,active,active,false,false,eb2bb774-8e0a-427d-bab7-2ce333195fa2,,,,198701784
+1704289,593,Bed in 6 Bed Room,,24,,active,active,active,false,false,233ce83d-d83e-44fb-976d-58de8f08b5e8,,,,198701784
+1704292,593,Deluxe Double Room,,46,,active,active,active,false,false,81bce806-dc7f-4704-bd3e-121484125211,,,,198701784
+1704288,593,Bed in 4 Bed Room,,36,,active,active,active,false,false,aaba516a-8083-4a54-84fe-bc2dd4df7e14,,,,198701784
+1704287,593,Bed in 10 Bed Room (Female only),,20,,active,active,active,false,false,a6343154-1050-4f74-a174-e66ef01e448a,,,,198701784
+1704286,593,Bed in 10 Bed Room,,40,,active,active,active,false,false,3ee7928b-e34f-41b3-80f7-cdeec0fac834,,,,198701784
+1704290,593,Single Bedroom,,38,,active,active,active,false,false,78fc8494-d3a1-4f93-9f3c-619495b88f76,,,,198701784
+1704291,593,Twin Bedroom,,52,,active,active,active,false,false,8922c842-4c8e-48a1-bfc4-cac4956be70a,,,,198701784
+1704484,598,Studio Apartment Luxury,,5,,active,active,active,false,false,577d576a-a62c-40fe-8758-ca407f7a57e0,,,,198701794
+1704483,598,Studio Apartment Garden,,5,,active,active,active,false,false,c7b00f38-7975-4ed3-9aaf-ec1cd04a021c,,,,198701794
+1704486,598,2 Bedroom apartment,,5,,active,active,active,false,false,9128c62b-5d5e-4098-8a90-0ff1e004ec9c,,,,198701794
+1704485,598,2 Bed Studio Apartment,,12,,active,active,active,false,false,d937e702-29b6-40bb-8ec4-dd73d3ad5fce,,,,198701794
+1704482,598,Studio Apartment Major,,5,,active,active,active,false,false,934f21ad-71ed-4f38-9255-9297b479018a,,,,198701794
+1704481,598,Studio Apartment Bachelor,,12,,active,active,active,false,false,dd25f4b1-01b3-4d81-97af-984b4fdbd7d1,,,,198701794
+1704487,598,2 Bedroom apartment Luxury,,5,,active,active,active,false,false,2c73f1c1-e0f9-4b85-984d-4edbfa8b07b6,,,,198701794

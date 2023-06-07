@@ -1,8 +1,9 @@
 # Pace Data Challenge
 Welcome to the Pace Data Challenge. This exercise is designed to bring you closer to the type of data we interact with at Pace as well as putting your SQL skills to the test. 
 In this exercise you will be required to: 
-Solve two individual SQL problems using BigQuery.
-Build out a data visualisation using the dataset from the second SQL problem (using Looker).
+
+- Solve two individual SQL problems using BigQuery.
+- Build out a data visualisation using the dataset from the second SQL problem (using Looker).
 
 ### IMPORTANT 
 There are a total of 3 different exercises in this document. All 3 of these exercises will be completed during a live pair-programming session (1.5hr) with our Data/Analytics Engineers. Please feel free to explore the data we have provided as well as get familiar with the expected output of the final data visualisation exercise, but this is not a requirement. We will outline the expectations of the challenge during the pair programming session. First and foremost this data challenge is there to help us understand your approach to data. It should hopefully be fun and also give you a small insight into what type of data you will be dealing with! 

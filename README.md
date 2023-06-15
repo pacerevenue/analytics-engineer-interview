@@ -33,7 +33,7 @@ This table contains access to all booking data of three demo properties. The dat
 
 [merchants](https://github.com/pacerevenue/analytics-engineer-interview/blob/main/merchants.csv) 
 
-This table contains the information on the merchant (“merchant” is our terminology for Hotels/Hostels/Apartments). It can be joined to the reservations table by joining `merchant_id` on `id`. 
+This table contains the information on the merchant (“merchant” is our terminology for Hotels/Hostels/Apartments). It can be joined to the reservations table by joining `property_id` on `id`. 
 
 [hotelrooms](https://github.com/pacerevenue/analytics-engineer-interview/blob/main/hotelrooms.csv) 
 

@@ -70,7 +70,7 @@ During the pair programming session, we will ask you to build out the following 
 
 - Build out a revenue booking curve chart for the consumption date 31/12/2021. The revenue booking curve visualises at what point in time revenue was created for a particular night. It is displayed as a cumulative sum.
 
-Tip: Make use of the lead time dimension and total units occupied metric you have calculated in the previous section.
+Tip: Make use of the lead time dimension and total net revenue metric you have calculated in the previous section.
 
 An example of this visualisation can be found below.
 

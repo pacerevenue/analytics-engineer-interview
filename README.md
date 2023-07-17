@@ -53,7 +53,7 @@ This challenge focuses on a collection of essential metrics that we calculate fo
 
 
 - **Total net revenue:** The sum of the net revenue associated with each booking by consumption date. Be sure not sum up revenues across different currencies.
-Test: The total net revenue on consumption date 01/01/2022 is 164,980 EUR across all properties.
+Test: The total net revenue on consumption date 01/01/2022 is 164,980 EUR.
 
 - **Total units occupied:** The sum of occupancy per booking.
 Test: The total units occupied on consumption date 01/01/2022 is 146 for Crown Hotel 1.
